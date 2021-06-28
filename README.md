@@ -1,6 +1,8 @@
-### Hi there 👋
-
+### Hi there I'm [Guilherme Maciel!](https://github.com/forestus/forestus.github.io) 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=forestus&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
+[![Linkedin: forestus](https://img.shields.io/badge/-forestus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/guilherme-maciel-5b22451b4/)
+[![GitHub forestus](https://img.shields.io/github/followers/forestus?label=follow&style=social)](https://github.com/forestus)
+[![website](https://img.shields.io/badge/PortfolioWebsite-forestus.github-2648ff?style=flat-square&logo=google-chrome)](forestus.github.io)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
