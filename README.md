@@ -10,5 +10,5 @@
 - 📫 How to reach me: ...
 
 <a href="https://github.com/forestus">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=forestus&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=forestus&theme=tokyonight&hide_langs_below=1" />
 </a>
