@@ -1,6 +1,7 @@
 ### Hi there I'm [Guilherme Maciel!](https://github.com/forestus/forestus.github.io) 👋
+<!--  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=forestus&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
-
+-->
 
 - 🔭 I’m currently working on home
 - 🌱 I’m currently learning nodejs and react
