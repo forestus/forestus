@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on a friend's freelancer
 - 🤔 I’m looking for help with learn microservices
 - 💬 Ask me about backend
-- 📫 How to reach me: 
+📫 Reach me at
 <a href="https://www.linkedin.com/in/guilherme-maciel-5b22451b4/">
 <img align="left" alt="Maciel" width="22px" src="https://raw.githubusercontent.com/forestus/forestus/main/assets/linkedin.svg" />
 </a></br></br>
