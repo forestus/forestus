@@ -14,8 +14,6 @@
 - 🤔 I’m looking for help with learn microservices
 - 💬 Ask me about backend
 
-![](https://raw.githubusercontent.com/forestus/github-stats-transparent/output/generated/languages.svg)
-
 <a href="https://github.com/forestus">
   <img align="center" src="https://raw.githubusercontent.com/forestus/github-stats-transparent/output/generated/languages.svg" /></br></br>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=forestus&show_icons=true&theme=radical" />
