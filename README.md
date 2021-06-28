@@ -9,8 +9,8 @@
 - 🤔 I’m looking for help with learn microservices
 - 💬 Ask me about backend
 
-<a href="https://www.linkedin.com/in/guilherme-maciel-5b22451b4/">
-📫 Reach me at<img align="left" alt="Maciel" width="22px" src="https://raw.githubusercontent.com/forestus/forestus/main/assets/linkedin.svg" />
+📫 Reach me at<a href="https://www.linkedin.com/in/guilherme-maciel-5b22451b4/">
+<img align="left" alt="Maciel" width="22px" src="https://raw.githubusercontent.com/forestus/forestus/main/assets/linkedin.svg" />
 </a></br></br>
 
 <a href="https://github.com/forestus">
