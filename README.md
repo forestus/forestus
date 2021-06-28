@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning nodejs and react
 - 👯 I’m looking to collaborate on a friend's freelancer
 - 🤔 I’m looking for help with learn microservices
-- 💬 Ask me about backend
+- 💬 Ask me about nodejs
 
 <a href="https://github.com/forestus">
   <img align="center" src="https://raw.githubusercontent.com/forestus/github-stats-transparent/output/generated/languages.svg" /></br></br>
