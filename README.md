@@ -13,10 +13,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=forestus&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 -->
 
-- 🔭 I’m currently working on home
-- 🌱 I’m currently learning nodejs and react
-- 👯 I’m looking to collaborate on a friend's freelancer
-- 🤔 I’m looking for help with learn microservices
+- 🔭 I’m currently working on softaliza
+- 🌱 I’m currently learning nestjs
+- 👯 I’m looking to collaborate on a freelancer
+- 🤔 I’m looking for help with learn archteture
 - 💬 Ask me about nodejs
 
 <a href="https://github.com/forestus">
