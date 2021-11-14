@@ -1,1404 +1,352 @@
-1
-00:00:24,220 --> 00:00:26,830
-Sintam o meu poder!
-
-2
-00:00:26,830 --> 00:00:28,720
-Trovão da Escuridão!
-
-3
-00:00:39,350 --> 00:00:45,260
-Majiha Rosa, não resta nada\Nda luz da esperança em você!
-
-4
-00:00:45,980 --> 00:00:47,290
-Está errado!
-
-5
-00:00:47,560 --> 00:00:48,730
-Veja!
-
-6
-00:00:59,280 --> 00:01:00,920
-Majiha Púrpura!
-
-7
-00:01:00,920 --> 00:01:02,920
+Darkness Thunder!
+Majiha Pink, there is no light \Nof hope remaining for you!
+You're wrong!
+Behold!
+Majiha Purple!
 Basashi! Gyuusashi!
-
-8
-00:01:02,920 --> 00:01:05,840
-Mesmo assim, quer continuar?
-
-9
-00:01:05,840 --> 00:01:07,120
-Desista!
-
-10
-00:01:07,770 --> 00:01:09,200
-É o fim!
-
-11
-00:01:12,920 --> 00:01:18,540
-Eu, o Rei dos Demônios, Lukifel, governarei\No mundo com a escuridão do desespero!
-
-12
-00:01:18,540 --> 00:01:20,800
-Este é o começo das\Nnoites mais escuras,
-
-13
-00:01:20,800 --> 00:01:24,870
-em que sugo os sonhos de\Ntodas as crianças do mundo!
-
-14
-00:01:31,310 --> 00:01:32,700
-Não vou desistir.
-
-15
-00:01:42,810 --> 00:01:45,850
-Não vou deixar que faça isso.
-
-16
-00:01:46,200 --> 00:01:48,940
-Não importa o que aconteça, eu vou...
-
-17
-00:01:49,420 --> 00:01:53,550
-Nós, as Irmãs Majiha,\Nnão vamos desistir!
-
-18
-00:02:10,370 --> 00:02:13,720
-Afinal, acreditamos no futuro!
-
-19
-00:02:18,780 --> 00:02:21,170
-Posso sentir, Majiha Púrpura.
-
-20
-00:02:22,110 --> 00:02:23,870
-Nós acreditamos no amor!
-
-21
-00:02:27,150 --> 00:02:29,570
-A luz da esperança\Nnão vai desaparecer.
-
-22
-00:02:29,940 --> 00:02:31,380
-Ela está sempre queimando...
-
-23
-00:02:31,690 --> 00:02:33,400
-...bem aqui!
-
-24
-00:02:34,010 --> 00:02:35,600
-Com as chamas carmesim...
-
-25
-00:02:35,600 --> 00:02:37,120
-...queimaremos tudo!
-
-26
-00:02:38,110 --> 00:02:40,750
-Fogo Majiha!
-
-27
-00:02:55,770 --> 00:02:56,570
+Do you still wish to continue?
+Give it up!
+It's over!
+I, Demon King Lukifel, will rule this \Nworld with the darkness of despair.
+This is the beginning of \Nthe darkest of nights,
+in which I suck up the dreams of \Nall children around the world!
+I won't give up.
+I won't let you do that.
+No matter what happens, I...
+We, the Majiha Sisters, will never give up!
+Because we believe in the future!
+I can feel you, Majiha Purple.
+We believe in love!
+The light of hope will never disappear.
+It's always burning...
+...right here!
+With my crimson flame...
+...I will burn all!
+Majiha Fire!
 {\fad(322,1)\an8\fs40\fnTimes New Roman\b1\c&H223337&\3c&HFDFCFA&\shad0}Maji
-
-28
-00:02:57,990 --> 00:03:03,950
-{\fad(146,684)\an8\b1\fs24\c&H0DEFF3&\3c&H524FA5&\4c&H05EFF4&\t(4484,5234,1 \c&HFEFEFE&\3c&HFEFEFE&\4a&HFEFEFE&)}Nós Somos as\N{\fs32\c&H5700C6&\3c&HFEFDFE&\4c&HDE7AF5&\blur2\t(4484,5234,1 \c&HFEFEFE&\3c&HFEFEFE&\4a&HFEFEFE&)}Cavaleiras Majiha!
-
-29
-00:03:03,280 --> 00:03:05,660
-{\fad(653,1)\an8\b1\fs24\c&HBE18EC&\3c&H792DAB&\4c&H5CFED8&\pos(320,20)}Nós Somos as\N{\alpha&HFF&\fs32\c&H0700E6&\3c&H4537D0&\4c&HDE7AF5&\shad0}Cavaleiras Majiha!
-
-30
-00:03:03,280 --> 00:03:05,660
-{\fad(653,1)\an8\b1\fs24\c&HBE18EC&\3c&H792DAB&\4c&H5CFED8&\pos(320,20)\clip(200,40,432,49)}Nós Somos as\N{\fs32\c&H0700E6&\3c&H4537D0&\4c&HDE7AF5&\shad0}Cavaleiras Majiha!
-
-31
-00:03:03,280 --> 00:03:05,660
-{\fad(653,1)\an8\b1\fs24\c&HBE18EC&\3c&H792DAB&\4c&H5CFED8&\pos(320,20)\clip(200,49,432,51)}Nós Somos as\N{\fs32\c&H05B0F7&\3c&H4537D0&\4c&HDE7AF5&\shad0}Cavaleiras Majiha!
-
-32
-00:03:03,280 --> 00:03:05,660
-{\fad(653,1)\an8\b1\fs24\c&HBE18EC&\3c&H792DAB&\4c&H5CFED8&\pos(320,20)\clip(200,51,432,53)}Nós Somos as\N{\fs32\c&H10FFF8&\3c&H4537D0&\4c&HDE7AF5&\shad0}Cavaleiras Majiha!
-
-33
-00:03:03,280 --> 00:03:05,660
-{\fad(653,1)\an8\b1\fs24\c&HBE18EC&\3c&H792DAB&\4c&H5CFED8&\pos(320,20)\clip(200,53,432,55)}Nós Somos as\N{\fs32\c&H01FFA1&\3c&H4537D0&\4c&HDE7AF5&\shad0}Cavaleiras Majiha!
-
-34
-00:03:03,280 --> 00:03:05,660
-{\fad(653,1)\an8\b1\fs24\c&HBE18EC&\3c&H792DAB&\4c&H5CFED8&\pos(320,20)\clip(200,55,432,57)}Nós Somos as\N{\fs32\c&H14FF16&\3c&H4537D0&\4c&HDE7AF5&\shad0}Cavaleiras Majiha!
-
-35
-00:03:03,280 --> 00:03:05,660
-{\fad(653,1)\an8\b1\fs24\c&HBE18EC&\3c&H792DAB&\4c&H5CFED8&\pos(320,20)\clip(200,57,432,59)}Nós Somos as\N{\fs32\c&HBCFF18&\3c&H4537D0&\4c&HDE7AF5&\shad0}Cavaleiras Majiha!
-
-36
-00:03:03,280 --> 00:03:05,660
-{\fad(653,1)\an8\b1\fs24\c&HBE18EC&\3c&H792DAB&\4c&H5CFED8&\pos(320,20)\clip(200,59,432,61)}Nós Somos as\N{\fs32\c&HF9FF19&\3c&H4537D0&\4c&HDE7AF5&\shad0}Cavaleiras Majiha!
-
-37
-00:03:03,280 --> 00:03:05,660
-{\fad(653,1)\an8\b1\fs24\c&HBE18EC&\3c&H792DAB&\4c&H5CFED8&\pos(320,20)\clip(200,61,432,63)}Nós Somos as\N{\fs32\c&HEF850C&\3c&H4537D0&\4c&HDE7AF5&\shad0}Cavaleiras Majiha!
-
-38
-00:03:03,280 --> 00:03:05,660
-{\fad(653,1)\an8\b1\fs24\c&HBE18EC&\3c&H792DAB&\4c&H5CFED8&\pos(320,20)\clip(200,63,432,65)}Nós Somos as\N{\fs32\c&HEB0001&\3c&H4537D0&\4c&HDE7AF5&\shad0}Cavaleiras Majiha!
-
-39
-00:03:03,280 --> 00:03:05,660
-{\fad(653,1)\an8\b1\fs24\c&HBE18EC&\3c&H792DAB&\4c&H5CFED8&\pos(320,20)\clip(200,65,432,67)}Nós Somos as\N{\fs32\c&HF10096&\3c&H4537D0&\4c&HDE7AF5&\shad0}Cavaleiras Majiha!
-
-40
-00:03:03,280 --> 00:03:05,660
-{\fad(653,1)\an8\b1\fs24\c&HBE18EC&\3c&H792DAB&\4c&H5CFED8&\pos(320,20)\clip(200,67,432,69)}Nós Somos as\N{\fs32\c&HF10096&\3c&H4537D0&\4c&HDE7AF5&\shad0}Cavaleiras Majiha!
-
-41
-00:03:03,280 --> 00:03:05,660
-{\fad(653,1)\an8\b1\fs24\c&HBE18EC&\3c&H792DAB&\4c&H5CFED8&\pos(320,20)\clip(200,69,432,71)}Nós Somos as\N{\fs32\c&HF300E4&\3c&H4537D0&\4c&HDE7AF5&\shad0}Cavaleiras Majiha!
-
-42
-00:03:03,280 --> 00:03:05,660
-{\fad(653,1)\an8\b1\fs24\c&HBE18EC&\3c&H792DAB&\4c&H5CFED8&\pos(320,20)\clip(200,71,432,73)}Nós Somos as\N{\fs32\c&HA800ED&\3c&H4537D0&\4c&HDE7AF5&\shad0}Cavaleiras Majiha!
-
-43
-00:03:03,280 --> 00:03:05,660
-{\fad(653,1)\an8\b1\fs24\c&HBE18EC&\3c&H792DAB&\4c&H5CFED8&\pos(320,20)\clip(200,73,432,80)}Nós Somos as\N{\fs32\c&H0500EC&\3c&H4537D0&\4c&HDE7AF5&\shad0}Cavaleiras Majiha!
-
-44
-00:04:21,990 --> 00:04:26,990
-{\pos(320,120)\fs22\b0\shad0\3c&HDD5DF0&\blur5}Episódio 11
-
-45
-00:04:21,990 --> 00:04:26,990
-{\pos(320,260)\b1\fs30\shad0\3c&HDD5DF0&\blur5}Majiha para sempre
-
-46
-00:04:23,540 --> 00:04:25,430
-"Majiha para sempre".
-
-47
-00:04:28,270 --> 00:04:29,550
-Desde que eu era pequena,
-
-48
-00:04:29,910 --> 00:04:33,090
-as Irmãs Majiha eram\Nquem eu mais admirava.
-
-49
-00:04:33,470 --> 00:04:36,440
-Amor e amizade, coragem e esperança...
-
-50
-00:04:36,890 --> 00:04:41,600
-Eu acreditava que, se tivesse isso, poderia ser\Numa garota mágica incrível e salvar o mundo.
-
-51
-00:04:42,740 --> 00:04:44,990
-Fogo... Majiha...
-
-52
-00:04:46,390 --> 00:04:50,620
-Claro... Eu nunca seria capaz de ser uma...
-
-53
-00:04:51,270 --> 00:04:53,670
-Eu conheço meus limites.
-
-54
-00:04:57,470 --> 00:05:02,140
-Eu me protegi ficando\Nao lado de pessoas fortes.
-
-55
-00:05:02,400 --> 00:05:04,820
-{\an8\b1\c&H7DE0FA&\3c&HAFEEFC&\shad0}S{\c&H80DFFA&}e {\c&H82DEFA&}f{\c&H85DDF9&}a{\c&H87DCF9&}z {\c&H8ADBF9&}d{\c&H8CDAF9&}e {\c&H8FD9F9&}b{\c&H92D8F8&}o{\c&H94D7F8&}a{\c&H97D6F8&}z{\c&H99D5F8&}i{\c&H9CD4F8&}n{\c&H9ED3F8&}h{\c&HA1D2F7&}a {\c&HA4D1F7&}q{\c&HA6D0F7&}u{\c&HA9CFF7&}a{\c&HABCEF7&}n{\c&HAECDF6&}d{\c&HB0CCF6&}o {\c&HB3CBF6&}f{\c&HB6C9F6&}a{\c&HB8C8F6&}l{\c&HBBC7F5&}a {\c&HBDC6F5&}c{\c&HC0C5F5&}o{\c&HC2C4F5&}m {\c&HC5C3F5&}o{\c&HC8C2F4&}s {\c&HCAC1F4&}m{\c&HCDC0F4&}e{\c&HCFBFF4&}n{\c&HD2BEF4&}i{\c&HD4BDF4&}n{\c&HD7BCF3&}o{\c&HDABBF3&}s{\c&HDCBAF3&}!{\c&HDFB9F3&}!
-
-56
-00:05:02,710 --> 00:05:04,820
-Eu falava mal delas pelas costas,
-
-57
-00:05:05,170 --> 00:05:07,730
-mas, quando tínhamos\Num inimigo em comum,
-
-58
-00:05:07,750 --> 00:05:09,370
-me juntava a elas.
-
-59
-00:05:12,350 --> 00:05:14,870
-Todas as outras faziam a mesma coisa.
-
-60
-00:05:14,870 --> 00:05:18,070
-Foi a razão para eu nem\Nquestionar minha atitude.
-
-61
-00:05:18,890 --> 00:05:21,250
-Não dá pra sobreviver ali\Nsem entender o clima.
-
-62
-00:05:21,250 --> 00:05:23,760
-Qual o problema nisso?
-
-63
-00:05:24,090 --> 00:05:27,050
-Como eu poderia ser uma garota mágica\Nde amor e esperança...
-
-64
-00:05:55,240 --> 00:05:57,580
-Consegui reviver?
-
-65
-00:05:59,890 --> 00:06:03,180
-Pensei que tudo havia acabado\Ndepois do que aconteceu.
-
-66
-00:06:06,520 --> 00:06:07,730
-Onde estou?
-
-67
-00:06:15,900 --> 00:06:18,230
-Então morrer caindo aqui
-
-68
-00:06:18,230 --> 00:06:21,090
-me permitiu manter o calor\Ndo corpo, e pude reviver?
-
-69
-00:06:23,610 --> 00:06:26,080
-Isto é uma masmorra secreta?
-
-70
-00:06:26,080 --> 00:06:27,530
-Que interessante.
-
-71
-00:06:32,460 --> 00:06:36,320
-Não esperava ver um lugar como este\Nno meio das montanhas.
-
-72
-00:06:49,170 --> 00:06:54,100
-{\fnArial\fs14\blur2\an4\pos(304,242)\fscx98}►Atravesse 5% do mapa (Atualmente 4,993%)
-
-73
-00:06:49,170 --> 00:06:54,100
-{\fnArial\fs14\blur2\an4\pos(304,280)}►Entregue o "pacote" em Radodorbo
-
-74
-00:06:49,170 --> 00:06:54,100
-{\fnArial\fs12\blur2\an5\pos(426,315)}Tempo restante: aprox. 5 horas
-
-75
-00:06:49,510 --> 00:06:54,100
-{\an8}Não sei até onde isto vai, mas,\Nse eu continuar avançando...
-
-76
-00:06:54,360 --> 00:06:55,560
-...vai dar certo!
-
-77
-00:06:56,560 --> 00:06:59,480
-{\fs50\blur2\pos(317,180)\fad(189,1938)}Morreu
-
-78
-00:06:56,560 --> 00:06:59,480
-{\fs30\blur2\pos(317,275)\fad(189,1938)}Revive em
-
-79
-00:06:57,560 --> 00:07:01,100
-{\fs24\blur2\pos(317,180)\fad(1900,1)}Morreu
-
-80
-00:06:57,560 --> 00:07:01,100
-{\fs14\blur2\fad(1900,1)\pos(317,227)}Revive em
-
-81
-00:06:57,560 --> 00:07:01,100
+{\fad(146,684)\an8\b1\fs24\c&H0DEFF3&\3c&H524FA5&\4c&H05EFF4&\t(4484,5234,1 \c&HFEFEFE&\3c&HFEFEFE&\4a&HFEFEFE&)}We Are the\N{\fs32\c&H5700C6&\3c&HFEFDFE&\4c&HDE7AF5&\blur2\t(4484,5234,1 \c&HFEFEFE&\3c&HFEFEFE&\4a&HFEFEFE&)}Majiha Knights!
+{\fad(653,1)\an8\b1\fs24\c&HBE18EC&\3c&H792DAB&\4c&H5CFED8&\pos(320,20)}We Are the\N{\alpha&HFF&\fs32\c&H0700E6&\3c&H4537D0&\4c&HDE7AF5&\shad0}Majiha Knights!
+{\fad(653,1)\an8\b1\fs24\c&HBE18EC&\3c&H792DAB&\4c&H5CFED8&\pos(320,20)\clip(200,40,432,49)}We Are the\N{\fs32\c&H0700E6&\3c&H4537D0&\4c&HDE7AF5&\shad0}Majiha Knights!
+{\fad(653,1)\an8\b1\fs24\c&HBE18EC&\3c&H792DAB&\4c&H5CFED8&\pos(320,20)\clip(200,49,432,51)}We Are the\N{\fs32\c&H05B0F7&\3c&H4537D0&\4c&HDE7AF5&\shad0}Majiha Knights!
+{\fad(653,1)\an8\b1\fs24\c&HBE18EC&\3c&H792DAB&\4c&H5CFED8&\pos(320,20)\clip(200,51,432,53)}We Are the\N{\fs32\c&H10FFF8&\3c&H4537D0&\4c&HDE7AF5&\shad0}Majiha Knights!
+{\fad(653,1)\an8\b1\fs24\c&HBE18EC&\3c&H792DAB&\4c&H5CFED8&\pos(320,20)\clip(200,53,432,55)}We Are the\N{\fs32\c&H01FFA1&\3c&H4537D0&\4c&HDE7AF5&\shad0}Majiha Knights!
+{\fad(653,1)\an8\b1\fs24\c&HBE18EC&\3c&H792DAB&\4c&H5CFED8&\pos(320,20)\clip(200,55,432,57)}We Are the\N{\fs32\c&H14FF16&\3c&H4537D0&\4c&HDE7AF5&\shad0}Majiha Knights!
+{\fad(653,1)\an8\b1\fs24\c&HBE18EC&\3c&H792DAB&\4c&H5CFED8&\pos(320,20)\clip(200,57,432,59)}We Are the\N{\fs32\c&HBCFF18&\3c&H4537D0&\4c&HDE7AF5&\shad0}Majiha Knights!
+{\fad(653,1)\an8\b1\fs24\c&HBE18EC&\3c&H792DAB&\4c&H5CFED8&\pos(320,20)\clip(200,59,432,61)}We Are the\N{\fs32\c&HF9FF19&\3c&H4537D0&\4c&HDE7AF5&\shad0}Majiha Knights!
+{\fad(653,1)\an8\b1\fs24\c&HBE18EC&\3c&H792DAB&\4c&H5CFED8&\pos(320,20)\clip(200,61,432,63)}We Are the\N{\fs32\c&HEF850C&\3c&H4537D0&\4c&HDE7AF5&\shad0}Majiha Knights!
+{\fad(653,1)\an8\b1\fs24\c&HBE18EC&\3c&H792DAB&\4c&H5CFED8&\pos(320,20)\clip(200,63,432,65)}We Are the\N{\fs32\c&HEB0001&\3c&H4537D0&\4c&HDE7AF5&\shad0}Majiha Knights!
+{\fad(653,1)\an8\b1\fs24\c&HBE18EC&\3c&H792DAB&\4c&H5CFED8&\pos(320,20)\clip(200,65,432,67)}We Are the\N{\fs32\c&HF10096&\3c&H4537D0&\4c&HDE7AF5&\shad0}Majiha Knights!
+{\fad(653,1)\an8\b1\fs24\c&HBE18EC&\3c&H792DAB&\4c&H5CFED8&\pos(320,20)\clip(200,67,432,69)}We Are the\N{\fs32\c&HF10096&\3c&H4537D0&\4c&HDE7AF5&\shad0}Majiha Knights!
+{\fad(653,1)\an8\b1\fs24\c&HBE18EC&\3c&H792DAB&\4c&H5CFED8&\pos(320,20)\clip(200,69,432,71)}We Are the\N{\fs32\c&HF300E4&\3c&H4537D0&\4c&HDE7AF5&\shad0}Majiha Knights!
+{\fad(653,1)\an8\b1\fs24\c&HBE18EC&\3c&H792DAB&\4c&H5CFED8&\pos(320,20)\clip(200,71,432,73)}We Are the\N{\fs32\c&HA800ED&\3c&H4537D0&\4c&HDE7AF5&\shad0}Majiha Knights!
+{\fad(653,1)\an8\b1\fs24\c&HBE18EC&\3c&H792DAB&\4c&H5CFED8&\pos(320,20)\clip(200,73,432,80)}We Are the\N{\fs32\c&H0500EC&\3c&H4537D0&\4c&HDE7AF5&\shad0}Majiha Knights!
+{\pos(320,120)\fs22\shad0\3c&HDD5DF0&\blur5}Episode 11
+{\pos(320,260)\b1\fs30\shad0\3c&HDD5DF0&\blur5}Majiha Forever
+"Majiha Forever."
+When I was little,
+the Majiha Sisters were my role models.
+Love and friendship, courage and hope...
+I believed that if I had those, I could be \Nan awesome magical girl and save the world.
+Majiha... Fire.
+Of course... there's no \Nway I could ever be one.
+I knew my own limitations.
+I protected myself by hanging out \Nwith people who were stronger.
+{\an8\b1\c&H7DE0FA&\3c&HAFEEFC&\shad0}A{\c&H80DFFA&} {\c&H82DEFA&}g{\c&H85DDF9&}i{\c&H87DCF9&}r{\c&H8ADBF9&}l{\c&H8CDAF9&} {\c&H8FD9F9&}w{\c&H92D8F8&}h{\c&H94D7F8&}o{\c&H97D6F8&} {\c&H99D5F8&}p{\c&H9CD4F8&}u{\c&H9ED3F8&}t{\c&HA1D2F7&}s{\c&HA4D1F7&} {\c&HA6D0F7&}o{\c&HA9CFF7&}n{\c&HABCEF7&} {\c&HAECDF6&}a{\c&HB0CCF6&} {\c&HB3CBF6&}n{\c&HB6C9F6&}i{\c&HB8C8F6&}c{\c&HBBC7F5&}e{\c&HBDC6F5&} {\c&HC0C5F5&}a{\c&HC2C4F5&}c{\c&HC5C3F5&}t{\c&HC8C2F4&} {\c&HCAC1F4&}a{\c&HCDC0F4&}r{\c&HCFBFF4&}o{\c&HD2BEF4&}u{\c&HD4BDF4&}n{\c&HD7BCF3&}d{\c&HDABBF3&} {\c&HDCBAF3&}b{\c&HDFB9F3&}o{\c&HE1B8F3&}y{\c&HE4B7F2&}s{\c&HE6B6F2&}!{\c&HE9B5F2&}!
+I talked trash about them \Nbehind their backs,
+but when we ended up with a common enemy,
+I'd cling to them.
+They all did the same thing...
+so I didn't have any right to complain.
+You've gotta be able to \Nread the room to get by.
+What's so wrong about that?
+Like I could ever be a magical \Ngirl of love and hope.
+I... revived?
+When that happened, \NI was sure it was all over.
+Where am I?
+So falling down here and dying
+allowed me to maintain my body \Nheat so I could revive?
+Is this a secret dungeon?
+Interesting.
+Wasn't expecting to find a place like \Nthis in the mountains, though.
+{\fnArial\fs14\blur2\an4\pos(304,242)}►Traverse 5% of the map (currently 4.993%)
+{\fnArial\fs14\blur2\an4\pos(304,280)\fscx105}►Deliver the goods to Radodorbo
+{\fnArial\fs12\blur2\an5\pos(426,315)}Time remaining: approx. 5 hours
+{\an8}I don't know how far this thing \Ngoes, but if I keep moving,
+we should make it!
+{\fs50\blur2\pos(317,180)\fad(189,1938)}Dead
+{\fs30\blur2\pos(317,275)\fad(189,1938)}Reviving in
+{\fs24\blur2\pos(317,180)\fad(1900,1)}Dead
+{\fs14\blur2\fad(1900,1)\pos(317,227)}Reviving in
 {\c&HFFF4C9&\blur2\pos(317,66)\fad(1900,1)}Hakozaki Kusue
-
-82
-00:07:01,490 --> 00:07:04,250
-P-Por... quê?
-
-83
-00:07:04,850 --> 00:07:07,060
-Ei, acorda!
-
-84
-00:07:08,660 --> 00:07:09,790
-Por favor...
-
-85
-00:07:10,200 --> 00:07:11,510
-Eu te peço!
-
-86
-00:07:11,510 --> 00:07:14,210
-Não morra num lugar como este!
-
-87
-00:07:15,550 --> 00:07:19,000
-Que droga, saí completamente\Ndo ar por um segundo.
-
-88
-00:07:19,290 --> 00:07:21,920
+No... Why?
+Come on, wake up!
+Please...
+I'm begging you!
+Please don't die out here!
+Crap! I completely spaced \Nout for a second...
 {\fs8\c&H5B5849&\3c&H433D2A&\blur2\fry180\pos(320,166)}Hakozaki Kusue
-
-89
-00:07:19,290 --> 00:07:21,920
-{\fry180\c&H878A89&\3c&H71542A&\fs16\blur2\pos(320,238)}Morreu
-
-90
-00:07:19,290 --> 00:07:21,920
-{\fry180\c&HC2C8B5&\3c&H98855D&\fs10\blur2\pos(320,267)}Revive em
-
-91
-00:07:20,540 --> 00:07:21,910
+{\fry180\c&H878A89&\3c&H71542A&\fs16\blur2\pos(320,238)}Dead
+{\fry180\c&HC2C8B5&\3c&H98855D&\fs10\blur2\pos(320,267)}Reviving in
 Kusue?
-
-92
-00:07:23,850 --> 00:07:27,520
-Vou completar este lixo de missão,\Nnem que seja a última coisa que eu faça!
-
-93
-00:07:31,000 --> 00:07:35,600
-Eu deveria ter verificado minha direção\Ndesta forma desde o começo.
-
-94
-00:07:35,600 --> 00:07:37,710
-O vento já se acalmou bastante.
-
-95
-00:07:37,710 --> 00:07:41,650
-Sinceramente, andar continua sendo\Nmuito cansativo, mas mesmo assim...
-
-96
-00:07:45,510 --> 00:07:47,990
-Que bom, estou vendo uma vila!
-
-97
-00:07:51,290 --> 00:07:52,820
-É mesmo uma vila!
-
-98
-00:07:53,080 --> 00:07:55,730
-Se eu chegar lá, eles\Ndevem ter carroças ou trenós.
-
-99
-00:07:55,730 --> 00:07:58,660
-Posso pegar emprestado\Npra andar mais rápido!
-
-100
-00:07:59,170 --> 00:08:02,590
-Espere por mim, Kusue.\NVou te trazer à vida!
-
-101
-00:08:10,640 --> 00:08:13,270
-Yotsuya-kun e a Yuka-san\Ncontinuam vivos.
-
-102
-00:08:16,770 --> 00:08:19,180
-Falta pouco! Bem pouco!
-
-103
-00:08:21,340 --> 00:08:22,990
-Se todos continuarem tentando...
-
-104
-00:08:33,580 --> 00:08:35,380
-Tá de brincadeira!
-
-105
-00:08:46,210 --> 00:08:49,130
+I'm completing this garbage quest \Nif it's the last thing I do!
+I should've been verifying my direction \Nlike this from the start.
+The wind has calmed down a lot.
+Honestly, walking is still tiring \Nme out just as much, but still...
+Oh, thank God! A village!
+It really is a village!
+If I can make it there,\NI should be able to borrow
+a carriage or sleigh or something \Nthat's faster than walking!
+Hang tight, Kusue. \NI'll bring you back in no time!
+Yotsuya-kun and Yuka-san \Nare still alive, too.
+Almost there... almost there...
+If we all keep trying...
+You've gotta be kidding me!
 {\c&HFFF4C9&\blur2\pos(168,94)\fs12}Hakozaki Kusue
-
-106
-00:08:46,210 --> 00:08:49,130
-{\blur2\pos(168,178)\fs24}Morreu
-
-107
-00:08:46,210 --> 00:08:49,130
-{\blur2\pos(168,214)\fs12}Revive em
-
-108
-00:08:46,210 --> 00:08:49,130
+{\blur2\pos(168,178)\fs24}Dead
+{\blur2\pos(168,214)\fs12}Reviving in
 {\c&HFFF4C9&\blur2\pos(472,94)\fs12\fad(190,1)}Shindou Iu
-
-109
-00:08:46,210 --> 00:08:49,130
-{\blur2\pos(472,178)\fs24\fad(190,1)}Morreu
-
-110
-00:08:46,210 --> 00:08:49,130
-{\blur2\pos(472,214)\fs12\fad(190,1)}Revive em
-
-111
-00:08:47,140 --> 00:08:48,400
-Sério?
-
-112
-00:08:49,130 --> 00:08:50,540
-A Shindou-san...
-
-113
-00:08:50,550 --> 00:08:57,470
-{\fnArial\fs14\blur2\an4\pos(312,238)\fad(5000,1)}►Atravesse 5% do mapa (Atualmente 4,994%)
-
-114
-00:08:50,550 --> 00:08:57,470
-{\fnArial\fs14\blur2\an4\pos(312,276)\fad(5000,1)}►Entregue o "pacote" em Radodorbo
-
-115
-00:08:50,550 --> 00:08:57,470
-{\fnArial\fs12\blur2\an5\pos(432,311)\fad(5000,1)}Tempo restante: aprox. 3 horas
-
-116
-00:08:50,760 --> 00:08:52,380
-Ela parou em um certo ponto,
-
-117
-00:08:52,380 --> 00:08:55,000
-mas depois a vi fazendo\Nprogresso no caminho.
-
-118
-00:08:55,000 --> 00:08:57,160
-Estava contando muito com ela.
-
-119
-00:08:57,460 --> 00:08:59,550
-E logo numa hora dessas?
-
-120
-00:09:01,680 --> 00:09:04,560
-Só me resta voltar e\Ntentar outro caminho.
-
-121
-00:09:12,440 --> 00:09:13,580
-Droga.
-
-122
-00:09:17,840 --> 00:09:19,080
-Droga!
-
-123
-00:09:31,840 --> 00:09:32,750
-Que droga!
-
-124
-00:09:33,570 --> 00:09:35,180
-Um beco sem saída?
-
-125
-00:09:35,180 --> 00:09:37,710
-Isto já passou de impossível!
-
-126
-00:09:39,820 --> 00:09:41,410
-Caramba, um terremoto?!
-
-127
-00:10:09,030 --> 00:10:10,640
-Ah, peraí...
-
-128
-00:10:11,880 --> 00:10:15,900
-Parece que as minhocas deste mundo\Ntambém comem terra pra sobreviver.
-
-129
-00:10:15,900 --> 00:10:18,130
-Igual às do nosso mundo.
-
-130
-00:10:18,400 --> 00:10:22,040
-Não só isso, ela tá indo numa direção\Na que não fui ainda.
-
-131
-00:10:22,300 --> 00:10:23,740
-Não é nenhuma ameaça.
-
-132
-00:10:23,740 --> 00:10:27,280
-Pelas circunstâncias, é uma bênção\Nela estar aqui, mas...
-
-133
-00:10:29,540 --> 00:10:30,980
-Que lerda.
-
-134
-00:10:31,340 --> 00:10:33,490
-A que velocidade ela anda?
-
-135
-00:10:33,490 --> 00:10:35,900
-Não posso voltar pra superfície\Na essa altura.
-
-136
-00:10:35,900 --> 00:10:38,550
-Só me resta que ela ali\Nfaça um trabalho melhor.
-
-137
-00:10:38,820 --> 00:10:41,730
-Ei! Dá pra apressar um pouco aí?
-
-138
-00:10:41,730 --> 00:10:43,560
-Eu tô sem tempo!
-
-139
-00:10:44,670 --> 00:10:48,520
-Ah, gostei! Mandou bem,\NMinhocatarou!
-
-140
-00:10:48,520 --> 00:10:51,420
-Você é legal! Continue avançando!
-
-141
-00:10:57,260 --> 00:10:59,000
-Tem um Jirou também?!
-
-142
-00:10:59,000 --> 00:11:01,790
-Ei! Não tente tomar o buraco\Nque o Tarou cavou!
-
-143
-00:11:01,790 --> 00:11:04,010
-Não tem terra aqui pra você comer!
-
-144
-00:11:09,760 --> 00:11:12,190
-Seu jantar... sou eu?!
-
-145
-00:11:15,980 --> 00:11:20,990
+{\blur2\pos(472,178)\fs24\fad(190,1)}Dead
+{\blur2\pos(472,214)\fs12\fad(190,1)}Reviving in
+Seriously?
+Shindou-san...
+{\fnArial\fs14\blur2\an4\pos(312,238)\fad(5000,1)}►Traverse 5% of the map (currently 4.994%)
+{\fnArial\fs14\blur2\an4\pos(312,276)\fscx105\fad(5000,1)}►Deliver the goods to Radodorbo
+{\fnArial\fs12\blur2\an5\pos(432,311)\fad(5000,1)}Time remaining: approx. 3 hours
+She had stopped at one point,
+but after that, it seemed like \Nshe was making progress again.
+Frankly, I was kinda counting on her.
+Now, of all times?
+I'll have to go back and try another route.
+Damn it.
+Damn it!
+Damn it!
+It's a dead end!
+This is beyond impossible!
+Crap! An earthquake?!
+Oh, come on...
+Looks like earthworms here \Neat dirt to survive, too,
+just like the ones in our world.
+Not only that, but it's moving in \Na direction I haven't gone yet.
+It poses no threat.
+Given the circumstances, \NI'm damn glad to see it, but...
+It's so slow.
+What is this guy's speed, anyway?
+But I can't get back to the surface now.
+All I can do is trust this \Nguy to do the work.
+Hey! Could you pick up the pace a little?
+I don't have much time!
+Hey, nice! Not bad, Wormtarou!
+That's a good boy! \NJust keep plowing through!
+There's a Jirou?!
+Hey! Don't try to take over Tarou's tunnel!
+There's no dirt left for \Nyou to eat, anyway!
+You want to eat... me?!
 {\p1\bord0\shad0\c&H684886&\an5\pos(468.667,150.667)}m 0 0 l 250 0 l 250 170 l 0 170
-
-146
-00:11:15,980 --> 00:11:20,990
-{\bord0\c&HBA7FEB&\fs20\pos(356,68)}A Série Majiha
-
-147
-00:11:15,980 --> 00:11:20,990
-{\c&HBA7FEB&\q2\fs11\pos(350,108)} ► Uma série de anime que existe há 11 anos.\N\N► Embora seja voltado para meninas, é conhecida\Npor sua alta qualidade de animação. A cena da\Nbatalha contra o Rei Demônio Lukifel no episódio 49,\N{\i1}Nós Somos as Cavaleiras Majiha{\i0}, o primeiro encontro\Ncom o Ouroboros no episódio 14 de {\i1}Vai! Super\NExpresso Majiha!{\i0} e várias outras cenas notáveis\Ncontam com uma arte impressionante.
-
-148
-00:11:30,030 --> 00:11:32,090
-Não dá mesmo pra acreditar nisto!
-
-149
-00:11:32,320 --> 00:11:36,970
-Como só eu e o Yotsuya sobramos,\Nnuma hora como esta?
-
-150
-00:11:36,970 --> 00:11:40,160
-As barras de reviver da Iu-san e\Nda Kusue-san não saem do zero...
-
-151
-00:11:40,160 --> 00:11:41,010
-Ai...
-
-152
-00:11:41,010 --> 00:11:44,930
+{\bord0\c&HBA7FEB&\fs20\pos(356,68)}[The Majiha Series]
+{\c&HBA7FEB&\q2\fs11\pos(350,108)}►An anime series that has been running for 11 years.\N\N►Though it's aimed at young girls, it is renowned for\Nits high animation quality. The battle scene with\NKing Lukifel in episode 49 of {\i1}We Are the\NMajiha Knights{\i0}, the first encounter with Ouroboros\Nin episode 14 of {\i1}Go! Majiha Super Express!{\i0}, and\Nseveral other notable scenes display surprisingly\Nimpressive artwork.
+I seriously can't believe this!
+How are Yotsuya and I the only \Nones left at a time like this?
+Iu-san and Kusue-san's revival \Ngauges are still stuck at zero...
+Ugh!
 {\c&HFFF4C9&\blur2\fs8\pos(125,187.333)}Hakozaki Kusue
-
-153
-00:11:41,010 --> 00:11:44,930
-{\blur2\fs20\pos(125,239)}Morreu
-
-154
-00:11:41,010 --> 00:11:44,930
-{\blur2\fs8\pos(125,262)}Revive em
-
-155
-00:11:41,010 --> 00:11:44,930
+{\blur2\fs20\pos(125,239)}Dead
+{\blur2\fs8\pos(125,262)}Reviving in
 {\c&HFFF4C9&\blur2\fs8\pos(320,187.333)}Shindou Iu
-
-156
-00:11:41,010 --> 00:11:44,930
-{\blur2\fs20\pos(320,239)}Morreu
-
-157
-00:11:41,010 --> 00:11:44,930
-{\blur2\fs8\pos(320,262)}Revive em
-
-158
-00:11:41,340 --> 00:11:44,090
-Vamos mesmo completar esta missão?
-
-159
-00:11:43,760 --> 00:11:44,930
+{\blur2\fs20\pos(320,239)}Dead
+{\blur2\fs8\pos(320,262)}Reviving in
+Is this thing even possible?
 {\c&HFFF4C9&\blur2\fs8\pos(514,187.333)\fad(234,1)}Yotsuya Yuusuke
-
-160
-00:11:43,760 --> 00:11:44,930
-{\blur2\fs20\pos(514,239)\fad(234,1)}Morreu
-
-161
-00:11:43,760 --> 00:11:44,930
-{\blur2\fs8\pos(514,262)\fad(234,1)}Revive em
-
-162
-00:11:44,090 --> 00:11:44,940
-Hã?!
-
-163
-00:11:45,480 --> 00:11:46,340
-Não pode ser...
-
-164
-00:11:46,350 --> 00:11:49,270
+{\blur2\fs20\pos(514,239)\fad(234,1)}Dead
+{\blur2\fs8\pos(514,262)\fad(234,1)}Reviving in
+What?!
+No way...
 {\fs30\blur2\c&HFEF0BF&\pos(322,56.667)}Yotsuya Yuusuke
-
-165
-00:11:46,350 --> 00:11:49,270
-{\fs50\blur2\pos(317,180)}Morreu
-
-166
-00:11:46,350 --> 00:11:49,270
-{\fs28\blur2\pos(317,257)}Revive em
-
-167
-00:11:46,800 --> 00:11:48,050
-O que é isso?
-
-168
-00:11:53,780 --> 00:11:54,890
-Ah, não...
-
-169
-00:11:54,890 --> 00:11:58,110
-Minha mente e meu corpo\Nestão congelando...
-
-170
-00:12:01,530 --> 00:12:02,630
-Ué?
-
-171
-00:12:04,440 --> 00:12:07,000
-Eu estou... aliviada?
-
-172
-00:12:07,000 --> 00:12:08,600
-Ah, entendi.
-
-173
-00:12:08,600 --> 00:12:12,880
-Passei esse tempo todo desejando\Numa desculpa pra desistir.
-
-174
-00:12:12,880 --> 00:12:14,720
-Eu não quero morrer,
-
-175
-00:12:15,080 --> 00:12:18,470
-mas ninguém vai reclamar, já que\Ntodos morreram antes de mim.
-
-176
-00:12:19,010 --> 00:12:21,850
-E não tem como eu\Nterminar isto sozinha.
-
-177
-00:12:22,230 --> 00:12:25,600
-Não preciso mais me esforçar.
-
-178
-00:12:26,330 --> 00:12:32,430
-Ah... Morrer sem fazer\Nesforço é muito... fácil.
-
-179
-00:12:34,050 --> 00:12:36,140
-Olhe para você, desistindo aqui!
-
-180
-00:12:36,660 --> 00:12:37,520
-Hã?
-
-181
-00:12:38,410 --> 00:12:41,370
-Por que está aí deitada, Majiha Rosa?
-
-182
-00:12:42,330 --> 00:12:44,520
-Majiha... Púrpura?!
-
-183
-00:12:45,140 --> 00:12:47,330
-Não, isto é um sonho.
-
-184
-00:12:47,700 --> 00:12:49,820
-Meu último desejo\Npara vê-las no final.
-
-185
-00:12:50,280 --> 00:12:54,910
-Uma ilusão... Uma visão\Ndisfarçada de ilusão...
-
-186
-00:12:55,220 --> 00:12:56,610
-Majiha Rosa!
-
-187
-00:12:57,140 --> 00:12:59,550
-F-Fala de mim?
-
-188
-00:13:01,260 --> 00:13:04,480
-O que via em nós por todo esse tempo?
-
-189
-00:13:06,210 --> 00:13:08,750
-Quando a primeira\NMajiha Rosa foi derrotada
-
-190
-00:13:08,750 --> 00:13:12,550
-pelo Trovão da Escuridão de Lukifel,\Nno episódio final, o que aconteceu?
-
-191
-00:13:13,790 --> 00:13:15,160
-Eu me lembro...
-
-192
-00:13:15,470 --> 00:13:16,560
-Nós...
-
-193
-00:13:16,560 --> 00:13:19,290
-Quando a segunda\NMajiha Rosa foi derrotada
-
-194
-00:13:19,290 --> 00:13:22,990
-pela Corrente de Energia do Ouroboros\Nno episódio final, o que veio depois?
-
-195
-00:13:22,990 --> 00:13:24,360
-Eu me lembro.
-
-196
-00:13:24,800 --> 00:13:25,910
-{\an8}...não vou desistir!
-
-197
-00:13:25,910 --> 00:13:27,980
-Quando a terceira Majiha Rosa\Nfoi derrotada
-
-198
-00:13:27,980 --> 00:13:31,290
-pelos Olhos Petrificantes da Gorgon,\No que aconteceu em seguida?
-
-199
-00:13:31,290 --> 00:13:32,990
-Vi todas elas.
-
-200
-00:13:31,970 --> 00:13:33,340
-{\an8}Não vou desistir!
-
-201
-00:13:32,990 --> 00:13:35,210
-Então, eu me lembro de todas!
-
-202
-00:13:35,210 --> 00:13:36,830
-Vou perguntar mais uma vez!
-
-203
-00:13:36,830 --> 00:13:40,050
-O que você viu em nós,\Nassistindo todos esses anos?
-
-204
-00:13:40,050 --> 00:13:40,960
-Responda!
-
-205
-00:13:41,570 --> 00:13:43,140
-As Irmãs Majiha...
-
-206
-00:13:43,610 --> 00:13:45,060
-...sempre...
-
-207
-00:13:45,060 --> 00:13:48,460
-Pelo amor e esperança de todas\Nas crianças ao redor do mundo...
-
-208
-00:13:49,150 --> 00:13:50,970
-...se levantaram!
-
-209
-00:14:01,570 --> 00:14:03,950
-Queime tudo com as chamas carmesim!
-
-210
-00:14:04,590 --> 00:14:07,890
-Fogo Majiha!
-
-211
-00:14:31,560 --> 00:14:32,840
+{\fs50\blur2\pos(317,180)}Dead
+{\fs28\blur2\pos(317,257)}Reviving in
+What is this?
+Oh, no...
+Both my mind and my body \Nare frozen stiff...
+Huh?
+I think... I feel relieved?
+Oh, I get it.
+All this time, I've been wanting \Nan excuse to give up.
+I don't want to die,
+but no one can complain if everyone \Nelse died before me, right?
+And there's no way I can \Nfinish this on my own.
+I don't have to push myself any farther.
+Wow... Dying the easy way is... so easy...
+Look at you, giving up now!
+Huh?
+Why are you just lying there, Majiha Pink?!
+Majiha... Purple?
+No, this is a dream.
+My dying wish to meet them...
+A delusion... A vision in \Nthe guise of a delusion...
+Majiha Pink!
+You mean... me?
+Whenever you watched us all these \Nyears, what did you see?
+When the first Majiha Pink was defeated
+by King Lukifel's Darkness Thunder in \Nher final episode, what happened next?
+I remember.
+We...
+When the second Majiha Pink was defeated
+by Ouroboros's Energy Stream in her \Nfinal episode, what happened next?
+I remember.
+{\an8}...give up!
+When the third Majiha Pink was defeated
+by Gorgon's Stone Eyes in her final \Nepisode, what happened next?
+I saw all of them.
+{\an8}...give up!
+So I remember it all!
+I'll ask you one more time!
+When you watched us all these \Nyears, what did you see?
+Answer me!
+The Majiha Sisters...
+...always...
+For the love and hope of all \Nchildren around the world...
+...stood back up!
+With my crimson flame, I will burn all!
+Majiha Fire!
 Yuka-san...
-
-212
-00:14:41,030 --> 00:14:43,650
-Rápido, venha por aqui.
-
-213
-00:14:48,400 --> 00:14:51,280
-Eu amo seu sorriso, Onee-sama.
-
-214
-00:14:51,730 --> 00:14:54,140
+Quickly, come this way.
+I love your smile, Onee-sama.
 Tsu... Tsubasa-kyun...
-
-215
-00:14:54,140 --> 00:14:55,440
-Vamos, está quase lá.
-
-216
-00:14:55,440 --> 00:14:56,460
-Continue!
-
-217
-00:14:56,460 --> 00:14:57,660
-Lute!
-
-218
-00:14:58,630 --> 00:15:00,280
-Eu sei que você consegue.
-
-219
-00:15:00,280 --> 00:15:01,840
-Que alegria!
-
-220
-00:15:07,820 --> 00:15:09,680
-Não vou desistir.
-
-221
-00:15:10,190 --> 00:15:14,420
-Afinal, sou uma garota mágica...
-
-222
-00:15:14,670 --> 00:15:16,260
-Se dormir aí, vai morrer.
-
-223
-00:15:28,020 --> 00:15:30,060
-Você é uma jogadora, certo?
-
-224
-00:15:30,060 --> 00:15:31,700
-Se quiser, te dou uma carona.
-
-225
-00:15:34,080 --> 00:15:35,130
-Venha.
-
-226
-00:15:44,110 --> 00:15:46,360
-Oh, está no quarto estágio?
-
-227
-00:15:46,360 --> 00:15:49,810
-Que falta de sorte ter esta\Nnevasca na sua primeira missão.
-
-228
-00:15:49,810 --> 00:15:50,880
-Sim...
-
-229
-00:15:50,880 --> 00:15:53,220
-E então, para qual direção devo ir?
-
-230
-00:15:53,220 --> 00:15:55,050
-Ah, é mesmo.
-
-231
-00:15:56,140 --> 00:15:58,220
-{\fnArial\fs17\blur2\an4\pos(241,225)}►Atravesse 5% do mapa (Atualmente 4,996%)
-
-232
-00:15:56,140 --> 00:15:58,220
-{\fnArial\fs17\blur2\an4\pos(241,270)}►Entregue o "pacote" em Radodorbo
-
-233
-00:15:56,140 --> 00:15:58,220
-{\fnArial\fs14\blur2\an5\pos(396,315)}Tempo restante: aprox. 3 minutos
-
-234
-00:15:57,210 --> 00:15:58,230
-{\an8}Não acredito!
-
-235
-00:15:58,230 --> 00:16:01,130
-Agora não dá mais tempo de nada!
-
-236
-00:16:01,510 --> 00:16:03,050
-Está com pressa?
-
-237
-00:16:05,780 --> 00:16:07,480
-Ah, não!
-
-238
-00:16:07,480 --> 00:16:10,090
-Tudo bem. Está com muita pressa.
-
-239
-00:16:10,090 --> 00:16:11,650
-Então, é melhor se segurar firme.
-
-240
-00:16:11,870 --> 00:16:12,330
-Hein?
-
-241
-00:16:12,330 --> 00:16:13,570
-Vamos acelerar!
-
-242
-00:16:13,570 --> 00:16:17,790
-Espírito do vento, Sylphid,\Nme empreste seu poder!
-
-243
-00:16:18,240 --> 00:16:21,650
-Em nome da usuária da magia Fahtina!\NVenha, vento!
-
-244
-00:16:23,440 --> 00:16:24,620
-Quê?!
-
-245
-00:16:24,620 --> 00:16:26,170
-Que tal agora?
-
-246
-00:16:26,170 --> 00:16:29,860
-P-Por acaso você também\Né uma jogadora?
-
-247
-00:16:29,860 --> 00:16:31,430
-Não, nada disso.
-
-248
-00:16:31,430 --> 00:16:33,800
-Sou apenas uma usuária de magia.
-
-249
-00:16:33,800 --> 00:16:35,420
-Uma usuária de magia?
-
-250
-00:16:36,500 --> 00:16:37,720
-Venha, vento!
-
-251
-00:16:41,390 --> 00:16:44,310
-{\fnArial\blur2\fs24\pos(100,244)\an4}►Atravesse 5% do mapa (Atualmente 4,996%)
-
-252
-00:16:41,390 --> 00:16:44,310
-{\fnArial\blur2\fs24\pos(100,310)\an4}►Entregue o "pacote" em Radodorbo
-
-253
-00:16:44,480 --> 00:16:46,720
-Por favor! Falta pouco!
-
-254
-00:16:49,150 --> 00:16:52,310
-Vento, dê sua bênção a esta heroína!
-
-255
-00:17:00,450 --> 00:17:00,910
-{\fnArial\blur2\fs24\pos(100,244)\an4}►Atravesse 5% do mapa (Atualmente 4,996%)
-
-256
-00:17:00,450 --> 00:17:00,910
-{\fnArial\blur2\fs24\pos(100,310)\an4}►Entregue o "pacote" em Radodorbo
-
-257
-00:17:00,910 --> 00:17:01,370
-{\fnArial\blur2\fs24\pos(100,244)\an4}►Atravesse 5% do mapa (Atualmente 4,997%)
-
-258
-00:17:00,910 --> 00:17:01,370
-{\fnArial\blur2\fs24\pos(100,310)\an4}►Entregue o "pacote" em Radodorbo
-
-259
-00:17:02,290 --> 00:17:03,080
-{\fnArial\blur2\fs24\pos(100,244)\an4}►Atravesse 5% do mapa (Atualmente 4,998%)
-
-260
-00:17:02,290 --> 00:17:03,080
-{\fnArial\blur2\fs24\pos(100,310)\an4}►Entregue o "pacote" em Radodorbo
-
-261
-00:17:03,080 --> 00:17:03,200
-{\fnArial\blur2\fs24\pos(100,244)\an4}►Atravesse 5% do mapa (Atualmente 4,999%)
-
-262
-00:17:03,080 --> 00:17:03,200
-{\fnArial\blur2\fs24\pos(100,310)\an4}►Entregue o "pacote" em Radodorbo
-
-263
-00:17:12,660 --> 00:17:16,110
-Hã? Não acredito... Estamos vivas?
-
-264
-00:17:16,110 --> 00:17:18,660
-Como assim, o que aconteceu?
-
-265
-00:17:18,660 --> 00:17:20,240
-Quem completou a missão?
-
-266
-00:17:22,640 --> 00:17:23,470
-Fala sério!
-
-267
-00:17:23,470 --> 00:17:24,810
+Come on, almost there!
+Keep it up!
+Fight on!
+I know you can do it.
+So happy...
+I won't give up.
+I'm a magical girl... after... all...
+If you sleep now, you'll die.
+You're a player, right?
+I'll give you a ride, if you'd like.
+C'mon.
+Wow, you're on the fourth stage?
+Rotten luck, getting hit with \Nthis snow on your first quest.
+Yeah...
+So, which way do you want to go?
+Oh, right...
+{\fnArial\fs17\blur2\an4\pos(241,225)}►Traverse 5% of the map (currently 4.996%)
+{\fnArial\fs17\blur2\an4\pos(241,270)\fscx105}►Deliver the goods to Radodorbo
+{\fnArial\fs14\blur2\an5\pos(396,315)}Time remaining: approx. 3 minutes
+{\an8}No way!
+We're never gonna make it now!
+You're in a hurry?
+It can't be!
+Okay. Big hurry. Got it.
+Better hold on tight, then.
+Huh?
+We're speeding up!
+Wind spirit, Sylphede, lend me your power.
+In the name of the magic \Nuser Fahtina! Come, wind!
+Huh?!
+How's this work for you?
+U-Uh... are you a player, too?
+Nope, not me.
+I'm just a magic user, that's all.
+A magic user?
+Come, wind!
+{\fnArial\blur2\fs24\pos(100,244)\an4}►Traverse 5% of the map (currently 4.996%)
+{\fnArial\blur2\fs24\pos(100,310)\an4}►Deliver the goods to Radodorbo
+Please! We're so close!
+Wind, bestow your blessing upon this hero!
+{\fnArial\blur2\fs24\pos(100,244)\an4}►Traverse 5% of the map (currently 4.996%)
+{\fnArial\blur2\fs24\pos(100,310)\an4}►Deliver the goods to Radodorbo
+{\fnArial\blur2\fs24\pos(100,244)\an4}►Traverse 5% of the map (currently 4.997%)
+{\fnArial\blur2\fs24\pos(100,310)\an4}►Deliver the goods to Radodorbo
+{\fnArial\blur2\fs24\pos(100,244)\an4}►Traverse 5% of the map (currently 4.998%)
+{\fnArial\blur2\fs24\pos(100,310)\an4}►Deliver the goods to Radodorbo
+{\fnArial\blur2\fs24\pos(100,244)\an4}►Traverse 5% of the map (currently 4.999%)
+{\fnArial\blur2\fs24\pos(100,310)\an4}►Deliver the goods to Radodorbo
+Huh? N-No way... We're alive?
+Wait, what happened there at the end?
+Who finished the quest?
+You're kidding!
 Yuka-san!
-
-268
-00:17:25,230 --> 00:17:26,980
-I-Isto é...
-
-269
-00:17:27,390 --> 00:17:30,250
-minha chance de levar\Ntodo o crédito sozinha!
-
-270
-00:17:30,250 --> 00:17:32,300
-Vou fazer com que fiquem\Nme devendo essa...
-
-271
-00:17:32,300 --> 00:17:33,490
-Fez um belo traba{lho}.
-
-272
-00:17:34,060 --> 00:17:36,480
-Ei, não apareça atrás de mim!
-
-273
-00:17:36,480 --> 00:17:40,210
-Como recompensa por completar\Na missão, pode fazer uma pergun{ta}.
-
-274
-00:17:40,210 --> 00:17:43,610
-Depois de todo aquele trabalho,\Nsó uma mísera pergunta?!
-
-275
-00:17:43,930 --> 00:17:45,710
-Essa é a sua pergun{ta}?
-
-276
-00:17:46,150 --> 00:17:48,080
-Não, não! Espera um pouco.
-
-277
-00:17:48,080 --> 00:17:49,580
-Pensando melhor,
-
-278
-00:17:49,580 --> 00:17:53,810
-aquela garota me ajudar no último minuto\Npode ter sido da configuração da missão.
-
-279
-00:17:54,250 --> 00:17:57,760
-Mais alguns segundos e\Nestaríamos todos mortos.
-
-280
-00:17:57,760 --> 00:17:59,910
-Quem é aquela usuária de magia?
-
-281
-00:18:00,380 --> 00:18:03,560
-Não, isso não.\NSeria desperdiçar a pergunta.
-
-282
-00:18:08,280 --> 00:18:09,670
-Este mundo...
-
-283
-00:18:10,510 --> 00:18:13,090
-Este mundo é na verdade virtual...
-
-284
-00:18:13,560 --> 00:18:16,080
-...como uma realidade virtual, certo?
-
-285
-00:18:20,700 --> 00:18:22,800
-"Mundo parale{lo}".
-
-286
-00:18:22,800 --> 00:18:26,150
-Este é o nome deste concei{to}.
-
-287
-00:18:27,080 --> 00:18:28,610
-Mundos paralelos?
-
-288
-00:18:28,920 --> 00:18:31,290
-Por exemplo, imagine uma bifurcação,
-
-289
-00:18:28,920 --> 00:18:39,090
-{\fs18\b1\c&H000000&\bord0\shad0\an5\frz40\fax.3\pos(87.333,93.334)}Mundo Paralelo{left}
-
-290
-00:18:28,920 --> 00:18:39,090
-{\fs18\b1\c&H000000&\bord0\shad0\an5\frx20\fry6\fax-.2\frz317.9\pos(540,95)}Mundo da\NRealidade\NObservada
-
-291
-00:18:31,290 --> 00:18:33,650
-e há um você que segue\No caminho da direi{ta}...
-
-292
-00:18:33,650 --> 00:18:39,090
-E num mundo de possibilidades diferentes,\Nhá um você que vai para a esquer{da}.
-
-293
-00:18:39,430 --> 00:18:44,060
-O você no mundo baseado em possibilidades\Ndiferentes, que vai para a esquerda,
-
-294
-00:18:44,060 --> 00:18:46,000
-existe em um mundo parale{lo}.
-
-295
-00:18:46,520 --> 00:18:55,440
-{\an8\fnTimes New Roman\fs18\b1\c&HB97837&\3c&HB3FFFA&\4c&HDF9E45&\pos(499,20)}Tempo
-
-296
-00:18:46,520 --> 00:18:55,440
-{\an8\fnTimes New Roman\fs16\b1\c&HCE6A18&\3c&HB3FFFA&\bord.25\blur.5\shad0\4c&HDF9E45&\pos(506,80)}Futuro←                →Passado
-
-297
-00:18:46,760 --> 00:18:51,170
-Por essa razão, cada vez\Nque fazemos uma decisão,
-
-298
-00:18:51,170 --> 00:18:55,450
-o número potencial de mundos paralelos no\Nuniverso aumenta numa estrutura ramifica{da}.
-
-299
-00:18:51,480 --> 00:18:55,440
-{\fad(484,1)\c&HF0DA8E&\fnArial\b1\fs16\shad0\bord.25\an5\frz270\blur1\3c&HB3FFFA&\pos(70,180)}Número de Mundos Paralelos
-
-300
-00:18:55,670 --> 00:18:58,230
-Racionalmente, até faz sentido.
-
-301
-00:18:58,860 --> 00:19:05,170
-Mas e se o "eu" que foi para a esquerda\Nmorrer em um aciden{te}?
-
-302
-00:19:05,170 --> 00:19:08,780
-No mundo paralelo,\Neu morro e deixo de exis{tir}.
-
-303
-00:19:09,300 --> 00:19:14,470
-Mas e se essa decisão não foi feita hoje,\Nmas três anos atrá{s}?
-
-304
-00:19:14,470 --> 00:19:16,330
-Entre os mundos paralelos,
-
-305
-00:19:16,330 --> 00:19:21,360
-existiria um mundo em que,\Ntrês anos atrás, eu mo{rri}.
-
-306
-00:19:21,640 --> 00:19:26,550
-E se a decisão foi uma ação tomada\Npor seus pais, vinte anos an{tes}?
-
-307
-00:19:27,100 --> 00:19:28,650
-Entre os mundos paralelos,
-
-308
-00:19:28,650 --> 00:19:32,470
-haveria um mundo em que,\Nvinte anos atrás, seus pais morre{ram}.
-
-309
-00:19:29,850 --> 00:19:32,480
-{\fad(444,1)\c&H000000&\3c&HFFFDFF&\4c&HBF3F61&\fs20\pos(98,190.666)}Não existem
-
-310
-00:19:32,480 --> 00:19:35,650
-Significa que você nem\Nteria nascido, naturalmen{te}.
-
-311
-00:19:36,360 --> 00:19:40,360
-Dessa forma, mundos paralelos\Nse tornam cada vez mais irreais
-
-312
-00:19:40,360 --> 00:19:43,420
-quanto mais se ramificam\Ndo passado onde se origina{ram}.
-
-313
-00:19:43,420 --> 00:19:45,060
-Esta ramificação
-
-314
-00:19:45,060 --> 00:19:49,020
-vem se repetindo eternamente,\Ndesde o nascimento do univer{so}.
-
-315
-00:19:50,000 --> 00:19:55,330
-Significa que o número de mundos\Nparalelos é praticamente infinito?
-
-316
-00:19:55,920 --> 00:19:58,350
-Nós somos capazes de usar\Nmétodos especiais
-
-317
-00:19:58,350 --> 00:20:03,340
-para observar e viajar entre mundos paralelos\Nque apresentem a condição adequa{da}.
-
-318
-00:20:04,130 --> 00:20:08,280
-A condição é que os mundos existam em\Num comprimento de onda semelhan{te}.
-
-319
-00:20:08,280 --> 00:20:10,140
-Ou seja, aquele mundo é...
-
-320
-00:20:10,930 --> 00:20:13,880
-um mundo que se ramificou\Nhá 4,6 bilhões de anos,
-
-321
-00:20:13,880 --> 00:20:17,350
-onde surgiu uma raça inteligente\Nidêntica aos humanos passou
-
-322
-00:20:17,350 --> 00:20:20,490
-e que viveu uma história\Nsimilar à história huma{na}.
-
-323
-00:20:20,490 --> 00:20:23,430
-É um planeta Terra baseado\Nnuma possibilidade diferen{te}.
-
-324
-00:20:23,740 --> 00:20:24,900
-O que significa isso?!
-
-325
-00:20:26,840 --> 00:20:29,500
-Você não tem o direito de fazer pergun{tas}.
-
-326
-00:20:31,410 --> 00:20:36,330
-Claro, o nome do planeta, as coisas de que\Né feito e a geografia são diferen{tes}.
-
-327
-00:20:36,330 --> 00:20:40,040
-No entanto, não é\Numa realidade virtu{al}.
-
-328
-00:20:40,410 --> 00:20:44,840
-É um planeta que existe no mesmo lugar\Nque a Terra, em um mundo parale{lo}.
-
-329
-00:20:45,130 --> 00:20:49,310
-Na verdade, vocês é que são\Nas coisas virtuais neste mun{do}.
-
-330
-00:20:49,540 --> 00:20:50,660
-Nós?
-
-331
-00:20:50,660 --> 00:20:54,220
-Ah, mas se não fosse assim,\Nnão conseguiríamos reviver.
-
-332
-00:20:54,220 --> 00:20:54,730
-É mesmo.
-
-333
-00:20:56,390 --> 00:20:59,190
-Portanto, todas as outras coisas lá...
-
-334
-00:20:59,570 --> 00:21:02,710
-o céu, os mares, a terra firme,
-
-335
-00:21:02,710 --> 00:21:05,820
-as criaturas que vivem ali,\Ne também os humanos...
-
-336
-00:21:05,820 --> 00:21:10,150
-são todos perfeitamente reais,\Nseres de carne e osso na realida{de}.
-
-337
-00:21:15,240 --> 00:21:17,520
-As pessoas deste mundo\Nnão são virtuais...
-
-338
-00:21:17,930 --> 00:21:21,450
-São terráqueos que vivem\Nem um mundo paralelo?
-
-339
-00:21:35,780 --> 00:21:38,690
-Eu matei... pessoas reais!
-
-340
-00:23:09,950 --> 00:23:12,120
-{\c&H4C4A4A&\bord0\shad0\an4\fs18\pos(88.667,186.667)}Missão Secundária\N\N{\fs20\b1}Transforme-se em Majiha!
-
-341
-00:23:09,950 --> 00:23:12,120
-Transforme-se em Majiha, por fa{vor}!
-
-342
-00:23:13,730 --> 00:23:17,210
-Rei Deokk! Vim vingar\Na morte de Bihmsberg!
-
-343
-00:23:17,210 --> 00:23:18,730
-Cavaleira Majiha...
-
-344
-00:23:18,730 --> 00:23:20,410
-...Iluminação!
-
-345
-00:23:24,250 --> 00:23:26,970
-Fogo carmesim... Queime tudo!
-
-346
-00:23:26,970 --> 00:23:27,870
+Th-This is...
+my chance to take all \Nthe credit for myself!
+If I make them owe me one now...
+Excellent wor.
+Damn it! Don't show up behind me!
+As your reward for completing the \Nquest, you may ask one question.
+Why is one question all I get for \Neverything I just went through?!
+Is that your question?
+No, no! Gimme a second!
+Now that I think about it,
+the quest might have been set up so that \Ngirl would bail me out at the last minute...
+We were seriously just seconds from death.
+Who was that magic user?
+No, I won't ask that. \NI can't waste this question.
+This world...
+This world is actually virtual...
+like, virtual reality, right?
+Parallel worlds.
+There is a concept by that na.
+Parallel worlds?
+Say, for example, \Nthat there is an intersection,
+{\fs18\b1\c&H000000&\bord0\shad0\an5\frz40\fax.3\pos(87.333,93.334)}Parallel World
+{\fs18\b1\c&H000000&\bord0\shad0\an5\frx20\fry6\fax-.2\frz317.9\pos(546,87.334)}Reality\NObserved World
+and there is a you who \Nfollows the right path...
+as well as a you in a world based on \Ndifferent possibilities who goes left.
+The you in the world based on different \Npossibilities who goes left
+exists in a parallel wor.
+{\an8\fnTimes New Roman\fs18\b1\c&HB97837&\3c&HB3FFFA&\4c&HDF9E45&\pos(499,20)}Time
+{\an8\fnTimes New Roman\fs16\b1\c&HCE6A18&\3c&HB3FFFA&\bord.25\blur.5\shad0\4c&HDF9E45&\pos(506,80)}Future←                →Past
+For that reason, \Nevery time we make a decision,
+the potential number of parallel worlds in \Nthe universe increases in a branching struc.
+{\fad(484,1)\c&HF0DA8E&\fnArial\b1\fs16\shad0\bord.25\an5\frz270\blur1\3c&HB3FFFA&\pos(70,180)}Number of Parallel Worlds
+I guess that does make logical sense.
+Now, what if the me who went \Nleft died in an accident?
+In a parallel world, I would not have di.
+So what if that decision was made not \Ntoday, but three years from now?
+Among the parallel worlds,
+there would exist a world in \Nwhich I died in an accid.
+And what if the decision was an action \Ntaken by your parents twenty years ago?
+Among the parallel worlds,
+there would be one in which \Nyour parents died twenty years ag.
+{\fad(444,1)\c&H000000&\3c&HFFFDFF&\4c&HBF3F61&\fs20\pos(98,190.666)}Nonexistent
+Naturally, that means \Nyou would not be born.
+In this way, parallel worlds become \Nmore and more unrealistic
+the farther they branch out from \Nthe past from which they origina.
+This branching
+has been repeating eternally \Nsince the birth of the univer.
+Does that mean the number of parallel \Nworlds is basically infinite?
+We are capable of using special methods
+to observe and travel between parallel \Nworlds that meet a certain conditio.
+The condition is that the worlds \Nexist on a similar wavelength.
+Which means that world is...
+a world that branched off \N4.6 billion years ago,
+where a sentient race identical \Nto humans came to exist
+and lived through a history \Nsimilar to human history.
+It is an Earth based on different possibil.
+What does that mean?!
+You do not have the right to ask a ques.
+Of course, the name of the planet, \Nthe things it is made of,
+and its terrain are diff.
+But it is not a virtual realit.
+It is a planet that exists in the same \Nplace as Earth in a parallel wor.
+If anything, you are the only things \Nin this world that are virtu.
+We're virtual?
+Well, I guess if we weren't, \Nwe couldn't come back from the dead.
+True.
+Which means all of the \Nother things there...
+the sky, the seas, the land,
+the creatures living there, \Nand the humans...
+are all perfectly real, \Nflesh-and-blood beings in realit.
+So the people in this \Nworld aren't virtual...
+They're Earthlings that just \Nexist in a parallel reality?
+I... killed real people...
+{\c&H4C4A4A&\bord0\shad0\an4\fs18\pos(88.667,186.667)}Subquest\N\N{\fs20\b1}Transform into Majiha!
+Turn into Majiha charact!
+King Deokk! I will avenge Bihmsberg!
+Majiha Knight...
+...Illumination!
+With my crimson flame, I will burn all!
 Majiha...
-
-347
-00:23:27,870 --> 00:23:30,250
-...Fogo Milagroso!
-
-348
-00:23:32,940 --> 00:23:33,890
-Foi um sonho?
-
-349
-00:23:34,160 --> 00:23:36,800
-Se uma Majiha aparecesse agora...
-
-350
-00:23:36,800 --> 00:23:38,070
-Me chamou?
-
-351
-00:23:38,380 --> 00:23:39,750
-Você, não!
+Miracle Fire!
+Just a dream...
+If only a Majiha would come to me now...
+You called?
+Not for you!
 
