@@ -33,10 +33,10 @@ Projects
 
 Front-end
 
-Angular:
+Angular: </br>
 tour of heroes https://tour-of-heroes-angular-kappa.vercel.app/dashboard </br>
 pokedex https://pokedex-beta-inky.vercel.app/
 
-React:
+React: </br>
 simple todo https://reactjs-todos.vercel.app/ </br>
 gmmoney https://gmmoney.vercel.app/
