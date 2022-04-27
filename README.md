@@ -28,3 +28,15 @@
 Music:
 
 https://user-images.githubusercontent.com/44713270/139314944-24f62adb-8425-4402-b0a9-2f2f6697de42.mov
+
+Projects
+
+Front-end
+
+Angular:
+tour of heroes https://tour-of-heroes-angular-kappa.vercel.app/dashboard
+pokedex https://pokedex-beta-inky.vercel.app/
+
+React:
+simple todo https://reactjs-todos.vercel.app/
+gmmoney https://gmmoney.vercel.app/
