@@ -35,15 +35,15 @@ Front-end
 
 Angular:
 
-tour of heroes https://tour-of-heroes-angular-kappa.vercel.app/dashboard </br>
-pokedex https://pokedex-beta-inky.vercel.app/
+- tour of heroes https://tour-of-heroes-angular-kappa.vercel.app/dashboard </br>
+- pokedex https://pokedex-beta-inky.vercel.app/
 
 React: </br>
-simple todo https://reactjs-todos.vercel.app/ </br>
-gmmoney https://gmmoney.vercel.app/
+- simple todo https://reactjs-todos.vercel.app/ </br>
+- gmmoney https://gmmoney.vercel.app/
 
 Back-end
 
 Spring-boot:
 
-parking-controll-spot https://parking-controll-spot.herokuapp.com/parking-spot
+- parking-controll-spot https://parking-controll-spot.herokuapp.com/parking-spot
