@@ -13,8 +13,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=forestus&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 -->
 
-- 🔭 I’m currently working on softaliza
-- 🌱 I’m currently learning nestjs
+- 🔭 I’m currently working on cwi software
+- 🌱 I’m currently learning nestjs/spring boot
 - 👯 I’m looking to collaborate on a freelancer
 - 🤔 I’m looking for help with learn archteture
 - 💬 Ask me about nodejs
